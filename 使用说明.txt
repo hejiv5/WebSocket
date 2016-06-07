@@ -1,0 +1,7 @@
+1、安装jdk1.7.x(此处要配置环境变量)
+2、安装Tomcat7.x或以上版本
+3、拷贝WebSocket项目到tomcat安装目录的webapps目录下
+4、启动tomcat（双击bin\startup.bat）
+5、在浏览器中输入http://localhost:8080/WebSocket/index.jsp即可打开聊天界面
+
+注意：IE9及以下版本的IE浏览器不支持WebSocket，所以建议使用最新的IE或者Chrome浏览器或者360浏览器极速模式测试
